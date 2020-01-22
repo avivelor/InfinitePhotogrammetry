@@ -1,0 +1,5 @@
+{
+    "createSeparatePackage": false,
+    "name": "com.unity.xr.magicleap.tests",
+    "displayName":"Magic Leap XR Tests"
+  }

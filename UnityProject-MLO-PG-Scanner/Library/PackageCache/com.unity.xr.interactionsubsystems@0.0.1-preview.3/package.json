@@ -1,0 +1,20 @@
+{
+  "name": "com.unity.xr.interactionsubsystems",
+  "displayName": "Interaction Subsystems",
+  "version": "0.0.1-preview.3",
+  "unity": "2019.2",
+  "description": "Contains definitions for Interaction Subsystems. This package is a dependency of provider packages.",
+  "keywords": [
+    "subsystem",
+    "XR",
+    "Interaction"
+  ],
+  "dependencies": {
+    "com.unity.subsystemregistration": "1.0.0-preview.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.cds.internal.unity3d.com:unity/com.unity.xr.interactionsubsystems.git",
+    "revision": "95aead8ae267c9a19920330b38d45973ea3c7f8c"
+  }
+}

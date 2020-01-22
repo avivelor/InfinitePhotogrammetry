@@ -1,0 +1,654 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 721bf2ca2165d0247a4e49d5fda78787, type: 3}
+  m_Name: ModuleDataMeshScans
+  m_EditorClassIdentifier: 
+  Prototypes: {fileID: 1831165061983658, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+  Modules:
+  - Name: Empty R0
+    Prototype: {fileID: 114566250024934836, guid: 5d57765e050f8834d88bcd265356b33e,
+      type: 3}
+    Prefab: {fileID: 1351484772775764, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Rotation: 0
+    PossibleNeighbors:
+    - data: b77bd39e48820000
+    - data: ffffffffffff0100
+    - data: dbbd795e24500000
+    - data: fdce2d3f02290000
+    - data: ffffffffffff0100
+    - data: 6ff7861f91040100
+    Index: 0
+    PLogP: 23.025852
+  - Name: Bahtroom-Two (1) R0
+    Prototype: {fileID: 1332308833, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Prefab: {fileID: 1332308832, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Rotation: 0
+    PossibleNeighbors:
+    - data: 48842c61b77d0100
+    - data: 2322222222220000
+    - data: dbbd795e24500000
+    - data: fdce2d3f02290000
+    - data: 2322222222220000
+    - data: 6ff7861f91040100
+    Index: 1
+    PLogP: 10.750557
+  - Name: Bahtroom-Two (1) R1
+    Prototype: {fileID: 1332308833, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Prefab: {fileID: 1332308832, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Rotation: 1
+    PossibleNeighbors:
+    - data: b77bd39e48820000
+    - data: 4444444444440000
+    - data: dbbd795e24500000
+    - data: fdce2d3f02290000
+    - data: 4444444444440000
+    - data: 900879e06efb0000
+    Index: 2
+    PLogP: 10.750557
+  - Name: Bahtroom-Two (1) R2
+    Prototype: {fileID: 1332308833, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Prefab: {fileID: 1332308832, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Rotation: 2
+    PossibleNeighbors:
+    - data: b77bd39e48820000
+    - data: 8888888888880000
+    - data: dbbd795e24500000
+    - data: 0231d2c0fdd60100
+    - data: 8888888888880000
+    - data: 6ff7861f91040100
+    Index: 3
+    PLogP: 10.750557
+  - Name: Bahtroom-Two (1) R3
+    Prototype: {fileID: 1332308833, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Prefab: {fileID: 1332308832, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Rotation: 3
+    PossibleNeighbors:
+    - data: b77bd39e48820000
+    - data: 1011111111110100
+    - data: 244286a1dbaf0100
+    - data: fdce2d3f02290000
+    - data: 1011111111110100
+    - data: 6ff7861f91040100
+    Index: 4
+    PLogP: 10.750557
+  - Name: Bathroom-One (1) R0
+    Prototype: {fileID: 549595924, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Prefab: {fileID: 549595923, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Rotation: 0
+    PossibleNeighbors:
+    - data: b77bd39e48820000
+    - data: 2322222222220000
+    - data: dbbd795e24500000
+    - data: fdce2d3f02290000
+    - data: 2322222222220000
+    - data: 900879e06efb0000
+    Index: 5
+    PLogP: 10.750557
+  - Name: Bathroom-One (1) R1
+    Prototype: {fileID: 549595924, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Prefab: {fileID: 549595923, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Rotation: 1
+    PossibleNeighbors:
+    - data: b77bd39e48820000
+    - data: 4444444444440000
+    - data: dbbd795e24500000
+    - data: 0231d2c0fdd60100
+    - data: 4444444444440000
+    - data: 6ff7861f91040100
+    Index: 6
+    PLogP: 10.750557
+  - Name: Bathroom-One (1) R2
+    Prototype: {fileID: 549595924, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Prefab: {fileID: 549595923, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Rotation: 2
+    PossibleNeighbors:
+    - data: b77bd39e48820000
+    - data: 8888888888880000
+    - data: 244286a1dbaf0100
+    - data: fdce2d3f02290000
+    - data: 8888888888880000
+    - data: 6ff7861f91040100
+    Index: 7
+    PLogP: 10.750557
+  - Name: Bathroom-One (1) R3
+    Prototype: {fileID: 549595924, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Prefab: {fileID: 549595923, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Rotation: 3
+    PossibleNeighbors:
+    - data: 48842c61b77d0100
+    - data: 1011111111110100
+    - data: dbbd795e24500000
+    - data: fdce2d3f02290000
+    - data: 1011111111110100
+    - data: 6ff7861f91040100
+    Index: 8
+    PLogP: 10.750557
+  - Name: Kitchen (1) R0
+    Prototype: {fileID: 596989779, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Prefab: {fileID: 596989778, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Rotation: 0
+    PossibleNeighbors:
+    - data: b77bd39e48820000
+    - data: 2322222222220000
+    - data: dbbd795e24500000
+    - data: fdce2d3f02290000
+    - data: 2322222222220000
+    - data: 900879e06efb0000
+    Index: 9
+    PLogP: 10.750557
+  - Name: Kitchen (1) R1
+    Prototype: {fileID: 596989779, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Prefab: {fileID: 596989778, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Rotation: 1
+    PossibleNeighbors:
+    - data: b77bd39e48820000
+    - data: 4444444444440000
+    - data: dbbd795e24500000
+    - data: 0231d2c0fdd60100
+    - data: 4444444444440000
+    - data: 6ff7861f91040100
+    Index: 10
+    PLogP: 10.750557
+  - Name: Kitchen (1) R2
+    Prototype: {fileID: 596989779, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Prefab: {fileID: 596989778, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Rotation: 2
+    PossibleNeighbors:
+    - data: b77bd39e48820000
+    - data: 8888888888880000
+    - data: 244286a1dbaf0100
+    - data: fdce2d3f02290000
+    - data: 8888888888880000
+    - data: 6ff7861f91040100
+    Index: 11
+    PLogP: 10.750557
+  - Name: Kitchen (1) R3
+    Prototype: {fileID: 596989779, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Prefab: {fileID: 596989778, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Rotation: 3
+    PossibleNeighbors:
+    - data: 48842c61b77d0100
+    - data: 1011111111110100
+    - data: dbbd795e24500000
+    - data: fdce2d3f02290000
+    - data: 1011111111110100
+    - data: 6ff7861f91040100
+    Index: 12
+    PLogP: 10.750557
+  - Name: LivingRoom (1) R0
+    Prototype: {fileID: 1262062209, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Prefab: {fileID: 1262062208, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Rotation: 0
+    PossibleNeighbors:
+    - data: 48842c61b77d0100
+    - data: 2322222222220000
+    - data: dbbd795e24500000
+    - data: fdce2d3f02290000
+    - data: 2322222222220000
+    - data: 6ff7861f91040100
+    Index: 13
+    PLogP: 10.750557
+  - Name: LivingRoom (1) R1
+    Prototype: {fileID: 1262062209, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Prefab: {fileID: 1262062208, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Rotation: 1
+    PossibleNeighbors:
+    - data: b77bd39e48820000
+    - data: 4444444444440000
+    - data: dbbd795e24500000
+    - data: fdce2d3f02290000
+    - data: 4444444444440000
+    - data: 900879e06efb0000
+    Index: 14
+    PLogP: 10.750557
+  - Name: LivingRoom (1) R2
+    Prototype: {fileID: 1262062209, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Prefab: {fileID: 1262062208, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Rotation: 2
+    PossibleNeighbors:
+    - data: b77bd39e48820000
+    - data: 8888888888880000
+    - data: dbbd795e24500000
+    - data: 0231d2c0fdd60100
+    - data: 8888888888880000
+    - data: 6ff7861f91040100
+    Index: 15
+    PLogP: 10.750557
+  - Name: LivingRoom (1) R3
+    Prototype: {fileID: 1262062209, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Prefab: {fileID: 1262062208, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Rotation: 3
+    PossibleNeighbors:
+    - data: b77bd39e48820000
+    - data: 1011111111110100
+    - data: 244286a1dbaf0100
+    - data: fdce2d3f02290000
+    - data: 1011111111110100
+    - data: 6ff7861f91040100
+    Index: 16
+    PLogP: 10.750557
+  - Name: Room-Aviv (1) R0
+    Prototype: {fileID: 1617242310, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Prefab: {fileID: 1617242309, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Rotation: 0
+    PossibleNeighbors:
+    - data: 48842c61b77d0100
+    - data: 2322222222220000
+    - data: dbbd795e24500000
+    - data: fdce2d3f02290000
+    - data: 2322222222220000
+    - data: 900879e06efb0000
+    Index: 17
+    PLogP: 10.750557
+  - Name: Room-Aviv (1) R1
+    Prototype: {fileID: 1617242310, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Prefab: {fileID: 1617242309, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Rotation: 1
+    PossibleNeighbors:
+    - data: b77bd39e48820000
+    - data: 4444444444440000
+    - data: dbbd795e24500000
+    - data: 0231d2c0fdd60100
+    - data: 4444444444440000
+    - data: 900879e06efb0000
+    Index: 18
+    PLogP: 10.750557
+  - Name: Room-Aviv (1) R2
+    Prototype: {fileID: 1617242310, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Prefab: {fileID: 1617242309, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Rotation: 2
+    PossibleNeighbors:
+    - data: b77bd39e48820000
+    - data: 8888888888880000
+    - data: 244286a1dbaf0100
+    - data: 0231d2c0fdd60100
+    - data: 8888888888880000
+    - data: 6ff7861f91040100
+    Index: 19
+    PLogP: 10.750557
+  - Name: Room-Aviv (1) R3
+    Prototype: {fileID: 1617242310, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Prefab: {fileID: 1617242309, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Rotation: 3
+    PossibleNeighbors:
+    - data: 48842c61b77d0100
+    - data: 1011111111110100
+    - data: 244286a1dbaf0100
+    - data: fdce2d3f02290000
+    - data: 1011111111110100
+    - data: 6ff7861f91040100
+    Index: 20
+    PLogP: 10.750557
+  - Name: Room-Pavlo (1) R0
+    Prototype: {fileID: 1474180347, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Prefab: {fileID: 1474180346, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Rotation: 0
+    PossibleNeighbors:
+    - data: b77bd39e48820000
+    - data: 2322222222220000
+    - data: 244286a1dbaf0100
+    - data: 0231d2c0fdd60100
+    - data: 2322222222220000
+    - data: 6ff7861f91040100
+    Index: 21
+    PLogP: 10.750557
+  - Name: Room-Pavlo (1) R1
+    Prototype: {fileID: 1474180347, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Prefab: {fileID: 1474180346, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Rotation: 1
+    PossibleNeighbors:
+    - data: 48842c61b77d0100
+    - data: 4444444444440000
+    - data: 244286a1dbaf0100
+    - data: fdce2d3f02290000
+    - data: 4444444444440000
+    - data: 6ff7861f91040100
+    Index: 22
+    PLogP: 10.750557
+  - Name: Room-Pavlo (1) R2
+    Prototype: {fileID: 1474180347, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Prefab: {fileID: 1474180346, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Rotation: 2
+    PossibleNeighbors:
+    - data: 48842c61b77d0100
+    - data: 8888888888880000
+    - data: dbbd795e24500000
+    - data: fdce2d3f02290000
+    - data: 8888888888880000
+    - data: 900879e06efb0000
+    Index: 23
+    PLogP: 10.750557
+  - Name: Room-Pavlo (1) R3
+    Prototype: {fileID: 1474180347, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Prefab: {fileID: 1474180346, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Rotation: 3
+    PossibleNeighbors:
+    - data: b77bd39e48820000
+    - data: 1011111111110100
+    - data: dbbd795e24500000
+    - data: 0231d2c0fdd60100
+    - data: 1011111111110100
+    - data: 900879e06efb0000
+    Index: 24
+    PLogP: 10.750557
+  - Name: Room-Sam (1) R0
+    Prototype: {fileID: 1409300795, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Prefab: {fileID: 1409300794, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Rotation: 0
+    PossibleNeighbors:
+    - data: b77bd39e48820000
+    - data: 2322222222220000
+    - data: dbbd795e24500000
+    - data: fdce2d3f02290000
+    - data: 2322222222220000
+    - data: 6ff7861f91040100
+    Index: 25
+    PLogP: 10.750557
+  - Name: Room-Sam (1) R1
+    Prototype: {fileID: 1409300795, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Prefab: {fileID: 1409300794, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Rotation: 1
+    PossibleNeighbors:
+    - data: b77bd39e48820000
+    - data: 4444444444440000
+    - data: dbbd795e24500000
+    - data: fdce2d3f02290000
+    - data: 4444444444440000
+    - data: 6ff7861f91040100
+    Index: 26
+    PLogP: 10.750557
+  - Name: Room-Sam (1) R2
+    Prototype: {fileID: 1409300795, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Prefab: {fileID: 1409300794, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Rotation: 2
+    PossibleNeighbors:
+    - data: b77bd39e48820000
+    - data: 8888888888880000
+    - data: dbbd795e24500000
+    - data: fdce2d3f02290000
+    - data: 8888888888880000
+    - data: 6ff7861f91040100
+    Index: 27
+    PLogP: 10.750557
+  - Name: Room-Sam (1) R3
+    Prototype: {fileID: 1409300795, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Prefab: {fileID: 1409300794, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Rotation: 3
+    PossibleNeighbors:
+    - data: b77bd39e48820000
+    - data: 1011111111110100
+    - data: dbbd795e24500000
+    - data: fdce2d3f02290000
+    - data: 1011111111110100
+    - data: 6ff7861f91040100
+    Index: 28
+    PLogP: 10.750557
+  - Name: HJoe R0
+    Prototype: {fileID: 342163935, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Prefab: {fileID: 342163934, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Rotation: 0
+    PossibleNeighbors:
+    - data: b77bd39e48820000
+    - data: 2322222222220000
+    - data: 244286a1dbaf0100
+    - data: 0231d2c0fdd60100
+    - data: 2322222222220000
+    - data: 900879e06efb0000
+    Index: 29
+    PLogP: 29.81888
+  - Name: HJoe R1
+    Prototype: {fileID: 342163935, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Prefab: {fileID: 342163934, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Rotation: 1
+    PossibleNeighbors:
+    - data: 48842c61b77d0100
+    - data: 4444444444440000
+    - data: 244286a1dbaf0100
+    - data: 0231d2c0fdd60100
+    - data: 4444444444440000
+    - data: 6ff7861f91040100
+    Index: 30
+    PLogP: 29.81888
+  - Name: HJoe R2
+    Prototype: {fileID: 342163935, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Prefab: {fileID: 342163934, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Rotation: 2
+    PossibleNeighbors:
+    - data: 48842c61b77d0100
+    - data: 8888888888880000
+    - data: 244286a1dbaf0100
+    - data: fdce2d3f02290000
+    - data: 8888888888880000
+    - data: 900879e06efb0000
+    Index: 31
+    PLogP: 29.81888
+  - Name: HJoe R3
+    Prototype: {fileID: 342163935, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Prefab: {fileID: 342163934, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Rotation: 3
+    PossibleNeighbors:
+    - data: 48842c61b77d0100
+    - data: 1011111111110100
+    - data: dbbd795e24500000
+    - data: 0231d2c0fdd60100
+    - data: 1011111111110100
+    - data: 900879e06efb0000
+    Index: 32
+    PLogP: 29.81888
+  - Name: HPavlo R0
+    Prototype: {fileID: 994754830, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Prefab: {fileID: 994754829, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Rotation: 0
+    PossibleNeighbors:
+    - data: b77bd39e48820000
+    - data: 2322222222220000
+    - data: 244286a1dbaf0100
+    - data: 0231d2c0fdd60100
+    - data: 2322222222220000
+    - data: 900879e06efb0000
+    Index: 33
+    PLogP: 29.81888
+  - Name: HPavlo R1
+    Prototype: {fileID: 994754830, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Prefab: {fileID: 994754829, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Rotation: 1
+    PossibleNeighbors:
+    - data: 48842c61b77d0100
+    - data: 4444444444440000
+    - data: 244286a1dbaf0100
+    - data: 0231d2c0fdd60100
+    - data: 4444444444440000
+    - data: 6ff7861f91040100
+    Index: 34
+    PLogP: 29.81888
+  - Name: HPavlo R2
+    Prototype: {fileID: 994754830, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Prefab: {fileID: 994754829, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Rotation: 2
+    PossibleNeighbors:
+    - data: 48842c61b77d0100
+    - data: 8888888888880000
+    - data: 244286a1dbaf0100
+    - data: fdce2d3f02290000
+    - data: 8888888888880000
+    - data: 900879e06efb0000
+    Index: 35
+    PLogP: 29.81888
+  - Name: HPavlo R3
+    Prototype: {fileID: 994754830, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Prefab: {fileID: 994754829, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Rotation: 3
+    PossibleNeighbors:
+    - data: 48842c61b77d0100
+    - data: 1011111111110100
+    - data: dbbd795e24500000
+    - data: 0231d2c0fdd60100
+    - data: 1011111111110100
+    - data: 900879e06efb0000
+    Index: 36
+    PLogP: 29.81888
+  - Name: HAviv R0
+    Prototype: {fileID: 602759985, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Prefab: {fileID: 602759984, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Rotation: 0
+    PossibleNeighbors:
+    - data: 48842c61b77d0100
+    - data: 2322222222220000
+    - data: 244286a1dbaf0100
+    - data: 0231d2c0fdd60100
+    - data: 2322222222220000
+    - data: 6ff7861f91040100
+    Index: 37
+    PLogP: 29.81888
+  - Name: HAviv R1
+    Prototype: {fileID: 602759985, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Prefab: {fileID: 602759984, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Rotation: 1
+    PossibleNeighbors:
+    - data: 48842c61b77d0100
+    - data: 4444444444440000
+    - data: 244286a1dbaf0100
+    - data: fdce2d3f02290000
+    - data: 4444444444440000
+    - data: 900879e06efb0000
+    Index: 38
+    PLogP: 29.81888
+  - Name: HAviv R2
+    Prototype: {fileID: 602759985, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Prefab: {fileID: 602759984, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Rotation: 2
+    PossibleNeighbors:
+    - data: 48842c61b77d0100
+    - data: 8888888888880000
+    - data: dbbd795e24500000
+    - data: 0231d2c0fdd60100
+    - data: 8888888888880000
+    - data: 900879e06efb0000
+    Index: 39
+    PLogP: 29.81888
+  - Name: HAviv R3
+    Prototype: {fileID: 602759985, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Prefab: {fileID: 602759984, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Rotation: 3
+    PossibleNeighbors:
+    - data: b77bd39e48820000
+    - data: 1011111111110100
+    - data: 244286a1dbaf0100
+    - data: 0231d2c0fdd60100
+    - data: 1011111111110100
+    - data: 900879e06efb0000
+    Index: 40
+    PLogP: 29.81888
+  - Name: HSam R0
+    Prototype: {fileID: 1011058490, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Prefab: {fileID: 1011058489, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Rotation: 0
+    PossibleNeighbors:
+    - data: 48842c61b77d0100
+    - data: 2322222222220000
+    - data: 244286a1dbaf0100
+    - data: fdce2d3f02290000
+    - data: 2322222222220000
+    - data: 900879e06efb0000
+    Index: 41
+    PLogP: 29.81888
+  - Name: HSam R1
+    Prototype: {fileID: 1011058490, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Prefab: {fileID: 1011058489, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Rotation: 1
+    PossibleNeighbors:
+    - data: 48842c61b77d0100
+    - data: 4444444444440000
+    - data: dbbd795e24500000
+    - data: 0231d2c0fdd60100
+    - data: 4444444444440000
+    - data: 900879e06efb0000
+    Index: 42
+    PLogP: 29.81888
+  - Name: HSam R2
+    Prototype: {fileID: 1011058490, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Prefab: {fileID: 1011058489, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Rotation: 2
+    PossibleNeighbors:
+    - data: b77bd39e48820000
+    - data: 8888888888880000
+    - data: 244286a1dbaf0100
+    - data: 0231d2c0fdd60100
+    - data: 8888888888880000
+    - data: 900879e06efb0000
+    Index: 43
+    PLogP: 29.81888
+  - Name: HSam R3
+    Prototype: {fileID: 1011058490, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Prefab: {fileID: 1011058489, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Rotation: 3
+    PossibleNeighbors:
+    - data: 48842c61b77d0100
+    - data: 1011111111110100
+    - data: 244286a1dbaf0100
+    - data: 0231d2c0fdd60100
+    - data: 1011111111110100
+    - data: 6ff7861f91040100
+    Index: 44
+    PLogP: 29.81888
+  - Name: HKitchen R0
+    Prototype: {fileID: 1861883280, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Prefab: {fileID: 1861883279, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Rotation: 0
+    PossibleNeighbors:
+    - data: b77bd39e48820000
+    - data: 2322222222220000
+    - data: 244286a1dbaf0100
+    - data: 0231d2c0fdd60100
+    - data: 2322222222220000
+    - data: 900879e06efb0000
+    Index: 45
+    PLogP: 29.81888
+  - Name: HKitchen R1
+    Prototype: {fileID: 1861883280, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Prefab: {fileID: 1861883279, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Rotation: 1
+    PossibleNeighbors:
+    - data: 48842c61b77d0100
+    - data: 4444444444440000
+    - data: 244286a1dbaf0100
+    - data: 0231d2c0fdd60100
+    - data: 4444444444440000
+    - data: 6ff7861f91040100
+    Index: 46
+    PLogP: 29.81888
+  - Name: HKitchen R2
+    Prototype: {fileID: 1861883280, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Prefab: {fileID: 1861883279, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Rotation: 2
+    PossibleNeighbors:
+    - data: 48842c61b77d0100
+    - data: 8888888888880000
+    - data: 244286a1dbaf0100
+    - data: fdce2d3f02290000
+    - data: 8888888888880000
+    - data: 900879e06efb0000
+    Index: 47
+    PLogP: 29.81888
+  - Name: HKitchen R3
+    Prototype: {fileID: 1861883280, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Prefab: {fileID: 1861883279, guid: 5d57765e050f8834d88bcd265356b33e, type: 3}
+    Rotation: 3
+    PossibleNeighbors:
+    - data: 48842c61b77d0100
+    - data: 1011111111110100
+    - data: dbbd795e24500000
+    - data: 0231d2c0fdd60100
+    - data: 1011111111110100
+    - data: 900879e06efb0000
+    Index: 48
+    PLogP: 29.81888

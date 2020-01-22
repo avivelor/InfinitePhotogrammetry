@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<engine:UXML
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:engine="UnityEngine.UIElements"
+    xmlns:editor="UnityEditor.UIElements"
+    xmlns:ml="UnityEditor.XR.MagicLeap"
+    xsi:noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd"
+    xsi:schemaLocation="
+                        UnityEngine.UIElements ../../../../UIElementsSchema/UnityEngine.UIElements.xsd
+                        UnityEditor.UIElements ../../../../UIElementsSchema/UnityEditor.UIElements.xsd
+                        UnityEditor.PackageManager.UI ../../../../UIElementsSchema/UnityEditor.PackageManager.UI.xsd
+                        UnityEditor.XR.MagicLeap ../../../../UIElementsSchema/UnityEditor.XR.MagicLeap.xsd">
+    <engine:Label class="header" text="Manifest Settings" />
+    <engine:TextField name="custom-manifest-warning" class="warning" multiline="true" readonly="true" />
+    <ml:PlatformLevelSelector class="lockable" name="api-label" label="Minimum API Level" text="" binding-path="m_MinimumAPILevel" />
+    <engine:VisualElement name="privileges-root">
+        <engine:Label name="privileges-label" class="lockable sub-header" text="Privileges" />
+        <ml:PrivilegeSection class="lockable" label="Autogranted Privileges" category="Autogranted" />
+        <ml:PrivilegeSection class="lockable" label="Sensitive Privileges" category="Sensitive" />
+        <ml:PrivilegeSection class="lockable" label="Reality Privileges" category="Reality" />
+    </engine:VisualElement>
+</engine:UXML>

@@ -1,0 +1,69 @@
+Label.header {
+    font-size: 25px;
+    -unity-font-style: bold;
+}
+Label.sub-header {
+    font-size: 20px;
+    -unity-font-style: bold;
+}
+
+#api-label .unity-integer-field__label {
+    flex: 2;
+}
+#api-label .unity-integer-field__input {
+    flex: 1;
+    -unity-text-align: middle-right;
+}
+
+.ml-privilege-section {
+    margin-top: 10px;
+    flex-grow: 1;
+}
+
+.ml-privilege-section--empty {
+    flex-grow: 0;
+}
+
+.ml-privilege-section__header {
+    font-size: 18px;
+    -unity-font-style: bold;
+}
+
+.ml-privilege-section__body {
+    margin-left: 10px;
+    flex-grow: 1;
+}
+
+.ml-privilege-section__body__container {
+    flex-grow: 1;
+}
+
+.ml-privilege-section__body__empty-label {
+    -unity-font-style: italic;
+}
+
+.ml-privilege-section__body__empty-label--hidden {
+    display: none;
+}
+
+.reversed-toggle {
+    flex-direction: row-reverse;
+    flex: 0 1 0;
+    justify-content: flex-end;
+}
+
+.reversed-toggle .unity-text-element {
+    flex: 0 1 0;
+}
+
+.reversed-toggle .unity-toggle__input {
+    flex-grow: 0;
+}
+
+.warning {
+    -unity-font-style: italic;
+}
+
+.warning--hidden {
+    display: none;
+}
