@@ -5,7 +5,7 @@ This repo encompasses all projects for the CM202 Project 1: Infinite InfinitePho
 The following assets were used to scan real world geometry with the Magic Leap HMD and generate an infinite version of scanned geometry through the Unity3D Game Engine and Wave Function Collapse.
 If any questions, email aelor@ucsc.edu and or message Aviv Elor.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/DBoF5nUR0U0/0.jpg)](https://www.youtube.com/watch?v=DBoF5nUR0U0)
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/DBoF5nUR0U0/0.jpg)](http://www.youtube.com/watch?v=DBoF5nUR0U0 "Demo Video")
 
 Demo Materials:
 * Youtube Video - https://youtu.be/DBoF5nUR0U0
