@@ -2,7 +2,7 @@
 
 Aviv Elor - aelor@ucsc.edu - avivelor1@gmail.com
 
-Description: Infinite Photogrammetry with the Magic Leap Spatial Computing Headset and Wave Function Collapse. This repo contains two unity projects (one for Magic leap, one for WebGL) and a couple builds to demo the experience. This project was created during the UC Santa Cruz CMPM 202 Winter Quarter Class of 2020.
+Description: Infinite Photogrammetry with the Magic Leap Spatial Computing Headset and Wave Function Collapse. This repo contains two unity projects (one for Magic leap, one for WebGL) and a couple builds to demo the experience. 
 
 This repo encompasses all projects for Infinite Photogrammetry.
 The following assets were used to scan real world geometry with the Magic Leap HMD and generate an infinite version of scanned geometry through the Unity3D Game Engine and Wave Function Collapse.
