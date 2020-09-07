@@ -11,7 +11,7 @@ If any questions, email aelor@ucsc.edu and or message Aviv Elor.
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/DBoF5nUR0U0/0.jpg)](http://www.youtube.com/watch?v=DBoF5nUR0U0 "Demo Video")
 
 Demo Materials:
-* Standalone Downloadable Demo (Stable) - https://github.com/avivelor/InfinitePhotogrammetry/raw/master/Demo-Standalone-Download-InfiniteHouse-AvivElor.zip
+* Standalone Downloadable Demo (Stable, Windows) - https://github.com/avivelor/InfinitePhotogrammetry/raw/master/Demo-Standalone-Download-InfiniteHouse-AvivElor.zip
 * WebGL Browser Demo (unstable) - https://avivelor.github.io/InfinitePhotogrammetry/. 
 * Video Demo - https://youtu.be/DBoF5nUR0U0
 * Blog Posts - https://www.avivelor.com/
