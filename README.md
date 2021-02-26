@@ -3,7 +3,7 @@
 Aviv Elor - aelor@ucsc.edu - avivelor1@gmail.com
 
 It's official, we've been published! More details behind this project can be found at the following manuscript: 
-[*Elor, A., & Conde, S. (2020, September). Exploring the Creative Possibilities of Infinite Photogrammetry through Spatial Computing and Extended Reality with Wave Function Collapse. In 2020 International Conference on Computational Creativity (ICCC). (Casual Creator Workshop). ACC, 2020.*](https://mkremins.github.io/casual-creators-workshop/papers/ICCC20_paper_176.pdf)
+[*Elor, A., & Conde, S. (2020, September). Exploring the Creative Possibilities of Infinite Photogrammetry through Spatial Computing and Extended Reality with Wave Function Collapse. In 2020 International Conference on Computational Creativity (ICCC). (Casual Creator Workshop). ACC, 2020.*](https://www.researchgate.net/publication/344157899_Exploring_the_Creative_Possibilities_of_Infinite_Photogrammetry_through_Spatial_Computing_and_Extended_Reality_with_Wave_Function_Collapse)
 
 Description: Infinite Photogrammetry with the Magic Leap Spatial Computing Headset and Wave Function Collapse. This repo contains two unity projects (one for Magic leap, one for WebGL) and a couple builds to demo the experience. 
 
